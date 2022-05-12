@@ -1,0 +1,12 @@
+body{
+    margin: 5vw;
+    font-family: sans-serif;
+}
+#container{
+    display: flex;
+}
+#right{
+    display: flex;
+    flex-direction: column;
+    margin-left: 5vw;
+}
